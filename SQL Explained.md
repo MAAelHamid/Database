@@ -291,5 +291,7 @@ While Indexes are special lookup tables that the database search engine can use 
 
 
 ### #05 Normalization
+	
+​ 	![image-2021-03-13_13-09](IMG/2021-03-13_13-09.png)
 
 ​	https://www.guru99.com/database-normalization.html
