@@ -141,9 +141,9 @@ dash line foreign key
 
     - Single row operators
 
-      `WHERE [column_name] >,<,= [value]`
+   ​	        `WHERE [column_name] >,<,= [value]`
      
-      `WHERE [column_name] >=,<= [value]`
+   ​ 		`WHERE [column_name] >=,<= [value]`
      
    
    ​		`WHERE [condition] AND [condition]`
